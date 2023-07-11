@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend and mobile development
 - 🌱 I’m currently studing at the University of Warsaw 🇵🇱
 - 👨‍💻 I’m familiar with Python, Java, C++ and JS
-- 📫 Reach me on disord: @devinyems156#0702 
+- 📫 Reach me on discord: @devinyems156#0702 
 
 <!---
 devinyems156/devinyems156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
